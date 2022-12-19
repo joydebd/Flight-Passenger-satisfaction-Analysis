@@ -1,0 +1,3 @@
+# Flight-Passenger-satisfaction-Analysis
+Problem statement: predict passenger satisfaction, with dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger?
+There are many factors which can affect the viability of a business from its competitiveness to its reputation and customer satisfaction. Customer satisfaction is particularly key as it can affect whether a customer is likely to reuse the service and whether they are likely to recommend the service. This is further emphasised by sources which highlight that retaining existing customers can be 4 to 10 times more cost effective then securing new customers.
